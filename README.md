@@ -1,2 +1,2 @@
-# mason-airsoft-web
-Airsoft battle planner and store for Mason
+# Mason Airsoft Web App
+A calendar, points, and shop system for Airsoft games.
